@@ -4,4 +4,4 @@ add = a+b
 sub = a-b
 mul = a*b
 div = a/b
-print("Addition = {0}, Subtract = {1}, Multiplication = {2}, Divison = {3}".format(add,sub,mul,div))
+print("Addition = {0}, Subtract = {1}, Multiplication = {2}, Divison = {3}".format(add,sub,mul,div))#unsing the format
