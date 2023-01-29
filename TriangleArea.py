@@ -7,3 +7,4 @@ sum = a_triangle1 + a_triangle2
 print(sum)
 print(a_triangle1)
 print(a_triangle2)
+print("The sum of area of two triangls is: " + str(sum) )
