@@ -1,0 +1,12 @@
+x = ["Hello","How","are","you"]
+type(x)
+print(type(x))
+print(x)
+print(len(x)) 
+print(x[0])
+print(x[1])
+print(x[2])
+print(x[3]) 
+print(x[0:2])
+print(x[0:3])
+print(x[0:4])
